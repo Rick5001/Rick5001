@@ -1,7 +1,7 @@
 <h1 align="center">Hola! Soy Riki Rosario! 👁️</h1>
 <h3 align="center">INTRODUCCIÓN</h3>
 
-Me defino como una persona orientada a objetivos y retos medibles. Siempre tratando de implementar técnicas más innovadoras y exigentes.
+¡Bienvenido a mi rincón digital! Soy Riki, un apasionado desarrollador comprometido con la creación de experiencias digitales excepcionales. Mi misión es explorar los límites de la tecnología y transformar ideas innovadoras en realidades funcionales.
 
 <h3 align="center">PROYECTOS</h3>
 
