@@ -17,10 +17,13 @@ Me defino como una persona orientada a objetivos y retos medibles. Siempre trata
 
 | VENTAS POR MES | VENTAS POR CATEGORIA |
 | ----------- | ----------- |
-|<img src="vm.png" />|<img src="db.png"/>|
+|<img src="vm.png" />|<img src="vc.png"/>|
 
-|----------------------------------------------------------------------------CRYSTAL REPORT-------------------------------------------------------------------------|
+
+|----------------------------------------------------------------------------CRYSTAL REPORT------------------------------------------------------------|<
 
 | REPORTE DE VENTAS | 
 | ----------- |
-|<img src="db.png" />|
+|<img src="CRISTAL.jpg" />|
+
+
